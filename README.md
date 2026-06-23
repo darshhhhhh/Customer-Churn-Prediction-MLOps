@@ -136,7 +136,7 @@ Confusion matrix:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Customer-Churn-Prediction-MLOps.git
+git clone https://github.com/darshhhhhh/Customer-Churn-Prediction-MLOps
 cd Customer-Churn-Prediction-MLOps
 ```
 
