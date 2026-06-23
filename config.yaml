@@ -1,0 +1,11 @@
+data:
+  raw_path: data/raw/Telco-Customer-Churn.csv
+  processed_path: data/processed/processed_churn.csv
+
+model:
+  model_path: models/churn_model.pkl
+  random_state: 42
+  test_size: 0.2
+
+training:
+  target_column: Churn

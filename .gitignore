@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Trained model artifacts
+models/*.pkl
+models/*.joblib
+
+# Reports and generated outputs
+reports/*.png
+reports/*.json
+reports/*.csv
+
+# MLflow artifacts
+mlruns/
+mlartifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+*.log
